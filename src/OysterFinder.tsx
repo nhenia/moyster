@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react"
 import deals from "./deals.json"
 
-const animationBase = "https://media.githubusercontent.com/media/nhenia/moyster/main/assets/moyster-session/"
+const animationBase = `${import.meta.env.BASE_URL}art/animations/`
 
 type Venue = {
   id: string
@@ -244,7 +244,7 @@ export default function OysterFinder() {
       {view === "map" ? (
         <div className="oyster-map">
           <img
-            src="/art/maritime-map.jpg"
+            src={`${import.meta.env.BASE_URL}art/maritime-map.jpg`}
             alt="Collage map of New Orleans oyster spots"
           />
           <div className="map-wash" />
