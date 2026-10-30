@@ -1643,3 +1643,61 @@ footer {
     transition-duration: 0.01ms !important;
   }
 }
+
+
+/* Moyster transparent animation placements (assets hosted from Git LFS). */
+.moyster-animation {
+  display: block;
+  object-fit: contain;
+  pointer-events: none;
+  user-select: none;
+}
+.moyster-animation-hero {
+  width: min(320px, 68vw);
+  height: auto;
+  max-height: 220px;
+  align-self: flex-start;
+  margin: 0 0 12px -12px;
+  filter: drop-shadow(0 10px 14px rgba(0,0,0,.4));
+}
+.moyster-animation-marquee {
+  position: absolute;
+  right: 3%;
+  top: 50%;
+  width: clamp(80px, 12vw, 160px);
+  height: 90px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.marquee { position: relative; overflow: hidden; }
+.moyster-animation-map {
+  position: absolute;
+  width: min(42%, 300px);
+  height: auto;
+  right: 2%;
+  bottom: 10%;
+  z-index: 2;
+  opacity: .9;
+  filter: drop-shadow(0 6px 9px rgba(0,0,0,.5));
+}
+.oyster-map .map-pin { z-index: 3; }\n.oyster-map .map-note, .oyster-map .map-tape { z-index: 3; }
+.moyster-animation-venue {
+  width: min(240px, 48vw);
+  height: auto;
+  float: right;
+  margin: 0 -6px 8px 12px;
+}
+.moyster-animation-empty {
+  width: min(260px, 65vw);
+  height: auto;
+  margin: 0 auto 10px;
+}
+@media (max-width: 600px) {
+  .moyster-animation-hero { width: 190px; max-height: 140px; margin-bottom: 4px; }
+  .moyster-animation-map { width: 35%; right: 0; bottom: 17%; opacity: .65; }
+  .moyster-animation-marquee { width: 80px; height: 60px; right: 0; }
+  .moyster-animation-venue { width: 128px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .moyster-animation { display: none !important; }
+}
