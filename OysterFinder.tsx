@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useState } from "react"
 import deals from "./deals.json"
 
+const animationBase = "https://media.githubusercontent.com/media/nhenia/moyster/main/assets/moyster-session/"
+
 type Venue = {
   id: string
   name: string
@@ -246,6 +248,7 @@ export default function OysterFinder() {
             alt="Collage map of New Orleans oyster spots"
           />
           <div className="map-wash" />
+          <img className="moyster-animation moyster-animation-map" src={`${animationBase}03_shell_scatter.webp`} alt="" aria-hidden="true" />
           {visible
             .filter(
               (venue) =>
@@ -316,6 +319,7 @@ export default function OysterFinder() {
           })}
           {visible.length === 0 && (
             <div className="finder-empty">
+              <img className="moyster-animation moyster-animation-empty" src={`${animationBase}02_shell_flip.webp`} alt="" aria-hidden="true" />
               <strong>NO OYSTERS MATCH.</strong>
               <button
                 onClick={() => {
@@ -343,6 +347,7 @@ export default function OysterFinder() {
             aria-label="Close"
           />
           <article>
+            <img className="moyster-animation moyster-animation-venue" src={`${animationBase}04_neon_shuck.webp`} alt="" aria-hidden="true" />
             <button className="venue-close" onClick={() => setActive(null)}>
               CLOSE ×
             </button>
