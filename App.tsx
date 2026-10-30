@@ -301,7 +301,7 @@ export default function App() {
 
       <footer>
         <div className="footer-mark">
-          SHUCK<span>!</span>
+          SHUCK IT, NERD<span>!</span>
         </div>
         <div className="footer-meta">
           <p>RAW / SALTY / WILD</p>
