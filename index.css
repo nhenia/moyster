@@ -1680,7 +1680,7 @@ footer {
   opacity: .9;
   filter: drop-shadow(0 6px 9px rgba(0,0,0,.5));
 }
-.oyster-map .map-pin, .oyster-map .map-note, .oyster-map .map-tape { position: relative; z-index: 3; }
+.oyster-map .map-pin { z-index: 3; }\n.oyster-map .map-note, .oyster-map .map-tape { z-index: 3; }
 .moyster-animation-venue {
   width: min(240px, 48vw);
   height: auto;
