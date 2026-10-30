@@ -288,6 +288,7 @@ export default function App() {
             <br />
             <em>NO PRETENDING.”</em>
           </blockquote>
+          <p className="manifesto-aside">... BUT SOMETIMES TINY FORKS.</p>
           <p>
             We like our oysters cold, our beer colder, and our art with the
             edges left rough. Come as you are. Leave the shell fragments on the
