@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react"
 import OysterFinder from "./OysterFinder"
 
-const animationBase = "https://media.githubusercontent.com/media/nhenia/moyster/main/assets/moyster-session/"
+const animationBase = `${import.meta.env.BASE_URL}art/animations/`
 
 type Artwork = {
   src: string
@@ -16,36 +16,36 @@ type InstallPromptEvent = Event & {
 
 const artworks: Artwork[] = [
   {
-    src: "/art/oyster-wall.png",
+    src: `${import.meta.env.BASE_URL}art/oyster-wall.png`,
     title: "The Oyster Wall",
     note: "Ink, paper, appetite",
   },
   {
-    src: "/art/beer-and-shells.jpg",
+    src: `${import.meta.env.BASE_URL}art/beer-and-shells.jpg`,
     title: "Shuck & Destroy",
     note: "Beer, shells, repeat",
   },
   {
-    src: "/art/cravings.jpg",
+    src: `${import.meta.env.BASE_URL}art/cravings.jpg`,
     title: "Oyster Cravings",
     note: "Fresh and wild",
   },
   {
-    src: "/art/maritime-map.jpg",
+    src: `${import.meta.env.BASE_URL}art/maritime-map.jpg`,
     title: "Maritime Map",
     note: "Follow the brine",
   },
-  { src: "/art/shuck-it-all.jpg", title: "Shuck It All", note: "Dive in" },
-  { src: "/art/pry-it-open.jpg", title: "Pry It Open", note: "Shuck or die" },
+  { src: `${import.meta.env.BASE_URL}art/shuck-it-all.jpg`, title: "Shuck It All", note: "Dive in" },
+  { src: `${import.meta.env.BASE_URL}art/pry-it-open.jpg`, title: "Pry It Open", note: "Shuck or die" },
   {
-    src: "/art/salty-shell.jpg",
+    src: `${import.meta.env.BASE_URL}art/salty-shell.jpg`,
     title: "The Salty Shell",
     note: "Adventures near you",
   },
-  { src: "/art/shuck-or-die.jpg", title: "Cold Beer", note: "Dirty seafood" },
-  { src: "/art/raw-and-dirty.jpg", title: "Raw & Dirty", note: "Spill it" },
+  { src: `${import.meta.env.BASE_URL}art/shuck-or-die.jpg`, title: "Cold Beer", note: "Dirty seafood" },
+  { src: `${import.meta.env.BASE_URL}art/raw-and-dirty.jpg`, title: "Raw & Dirty", note: "Spill it" },
   {
-    src: "/art/bad-decisions.jpg",
+    src: `${import.meta.env.BASE_URL}art/bad-decisions.jpg`,
     title: "Bad Decisions",
     note: "Oyster punk",
   },
@@ -276,7 +276,7 @@ export default function App() {
 
       <section className="manifesto" id="manifesto">
         <div className="manifesto-art">
-          <img src="/art/shuck-or-die.jpg" alt="" loading="lazy" />
+          <img src={`${import.meta.env.BASE_URL}art/shuck-or-die.jpg`} alt="" loading="lazy" />
         </div>
         <div className="manifesto-copy">
           <p className="eyebrow">The house rules</p>
