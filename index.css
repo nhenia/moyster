@@ -402,7 +402,7 @@ body::before {
   overflow: hidden;
   background:
     linear-gradient(rgba(17, 16, 14, 0.91), rgba(17, 16, 14, 0.96)),
-    url("/art/salty-shell.jpg") center 18% / cover fixed;
+    url("/moyster/art/salty-shell.jpg") center 18% / cover fixed;
   color: var(--paper-light);
 }
 
@@ -843,7 +843,7 @@ body::before {
   padding: clamp(34px, 6vw, 70px);
   background:
     linear-gradient(rgba(235, 224, 202, 0.96), rgba(235, 224, 202, 0.96)),
-    url("/art/oyster-wall.png") center / cover;
+    url("/moyster/art/oyster-wall.png") center / cover;
   color: var(--ink);
   box-shadow: 15px 17px 0 var(--pink);
   clip-path: polygon(0 1%, 97% 0, 100% 6%, 99% 96%, 95% 100%, 3% 98%, 0 92%);
