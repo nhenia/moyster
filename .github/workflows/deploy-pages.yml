@@ -52,6 +52,17 @@ jobs:
         run: |
           test -s dist/index.html
           test -s dist/art/oyster-wall.png
+          test -s dist/manifest.webmanifest
+          test -s dist/sw.js
+          for file in dist/art/*.{jpg,png} dist/art/animations/*.webp dist/icons/*.png; do
+            test -s "$file" || { echo "Missing asset: $file"; exit 1; }
+            if head -c 40 "$file" | grep -q 'git-lfs.github.com/spec'; then
+              echo "LFS pointer instead of image: $file"; exit 1
+            fi
+          done
+          if grep -Rq 'url(/art/' dist/assets/; then
+            echo "Unscoped background image URL in compiled CSS"; exit 1
+          fi
           touch dist/.nojekyll
       - uses: actions/configure-pages@v5
         with:
