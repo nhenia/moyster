@@ -1,4 +1,5 @@
 name: Deploy MOYSTER to GitHub Pages
+# Republishes the static MOYSTER directory on main pushes and manual dispatch.
 
 on:
   push:
