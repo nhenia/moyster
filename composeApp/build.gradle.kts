@@ -22,6 +22,7 @@ kotlin {
             implementation(compose.material3)
             implementation(compose.components.resources)
             implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
+            implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.7.1")
         }
         wasmJsMain.dependencies {
             implementation(compose.ui)
