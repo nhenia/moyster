@@ -35,8 +35,10 @@ jobs:
           test -s data/deals.json
           python3 -m json.tool data/deals.json > /dev/null
 
-      - name: Configure Pages
+      - name: Configure and initialize Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
