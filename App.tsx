@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react"
 import OysterFinder from "./OysterFinder"
 
+const animationBase = "https://media.githubusercontent.com/media/nhenia/moyster/main/assets/moyster-session/"
+
 type Artwork = {
   src: string
   title: string
@@ -158,6 +160,7 @@ export default function App() {
 
       <section className="hero" id="top">
         <div className="hero-copy">
+          <img className="moyster-animation moyster-animation-hero" src={`${animationBase}01_oyster_pulse.webp`} alt="" aria-hidden="true" />
           <p className="eyebrow">An oyster-fuelled art journal / Vol. 01</p>
           <h1>
             RAW.
@@ -224,6 +227,7 @@ export default function App() {
       </section>
 
       <section className="marquee" aria-label="Manifesto">
+        <img className="moyster-animation moyster-animation-marquee" src={`${animationBase}02_shell_flip.webp`} alt="" aria-hidden="true" />
         <div>
           SHUCK — DRINK — WANDER — REPEAT — SHUCK — DRINK — WANDER — REPEAT —
         </div>
