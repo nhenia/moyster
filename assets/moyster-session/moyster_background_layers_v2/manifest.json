@@ -1,0 +1,452 @@
+[
+  {
+    "poster": "shucking",
+    "file": "shucking/01_main_hands_knife_oyster.png",
+    "pixel_bbox": [
+      137,
+      307,
+      1391,
+      1517
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "shucking",
+    "file": "shucking/02_top_scribble_paper.png",
+    "pixel_bbox": [
+      804,
+      124,
+      1516,
+      565
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "shucking",
+    "file": "shucking/03_shuck_or_die_paper.png",
+    "pixel_bbox": [
+      68,
+      989,
+      573,
+      1409
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "shucking",
+    "file": "shucking/04_pry_it_open_paper.png",
+    "pixel_bbox": [
+      844,
+      1509,
+      1489,
+      1904
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "shucking",
+    "file": "shucking/05_bottom_photocopy.png",
+    "pixel_bbox": [
+      77,
+      1507,
+      870,
+      1880
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "shucking",
+    "file": "shucking/06_upper_map_fragment.png",
+    "pixel_bbox": [
+      946,
+      0,
+      1529,
+      280
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/01_statue_and_shell.png",
+    "pixel_bbox": [
+      178,
+      256,
+      1421,
+      1617
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/02_adventures_paper.png",
+    "pixel_bbox": [
+      82,
+      118,
+      732,
+      399
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/03_oyster_pink_type.png",
+    "pixel_bbox": [
+      885,
+      120,
+      1437,
+      391
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/04_near_you_paper.png",
+    "pixel_bbox": [
+      1077,
+      360,
+      1447,
+      710
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/05_bottom_photo.png",
+    "pixel_bbox": [
+      148,
+      1558,
+      684,
+      1943
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "statue",
+    "file": "statue/06_salty_shell_paper.png",
+    "pixel_bbox": [
+      703,
+      1705,
+      1524,
+      1908
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/01_hands_bottle_lemon.png",
+    "pixel_bbox": [
+      157,
+      350,
+      1452,
+      1153
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/02_bottom_oyster_hand.png",
+    "pixel_bbox": [
+      473,
+      1085,
+      1431,
+      1751
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/03_shuck_em_all.png",
+    "pixel_bbox": [
+      42,
+      45,
+      672,
+      544
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/04_raw_dirty.png",
+    "pixel_bbox": [
+      218,
+      993,
+      671,
+      1335
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/05_spill_lettering.png",
+    "pixel_bbox": [
+      1003,
+      890,
+      1428,
+      1116
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "hot_sauce",
+    "file": "hot_sauce/06_pink_skull.png",
+    "pixel_bbox": [
+      1155,
+      1632,
+      1452,
+      2000
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/01_large_oyster.png",
+    "pixel_bbox": [
+      180,
+      342,
+      1409,
+      1732
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/02_shuck_paper.png",
+    "pixel_bbox": [
+      70,
+      94,
+      695,
+      450
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/03_bad_decisions_paper.png",
+    "pixel_bbox": [
+      914,
+      38,
+      1509,
+      495
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/04_oyster_paper.png",
+    "pixel_bbox": [
+      784,
+      1599,
+      1506,
+      1884
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/05_punk_lettering.png",
+    "pixel_bbox": [
+      1056,
+      1835,
+      1518,
+      2041
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "oyster_punk",
+    "file": "oyster_punk/06_pink_lip_stamp.png",
+    "pixel_bbox": [
+      1027,
+      1189,
+      1509,
+      1550
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/01_double_oyster.png",
+    "pixel_bbox": [
+      270,
+      630,
+      1287,
+      1628
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/02_shuck_or_die.png",
+    "pixel_bbox": [
+      211,
+      362,
+      1051,
+      700
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/03_oyster_punk_lettering.png",
+    "pixel_bbox": [
+      622,
+      1482,
+      1373,
+      1898
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/04_barcode_left.png",
+    "pixel_bbox": [
+      0,
+      1355,
+      301,
+      1841
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/05_barcode_right.png",
+    "pixel_bbox": [
+      1240,
+      686,
+      1529,
+      1421
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  },
+  {
+    "poster": "double_oyster",
+    "file": "double_oyster/06_pink_lip_top.png",
+    "pixel_bbox": [
+      1163,
+      0,
+      1529,
+      421
+    ],
+    "canvas": [
+      1529,
+      2048
+    ],
+    "accuracy": "rectangular crop; other nearby graphics may remain"
+  }
+]

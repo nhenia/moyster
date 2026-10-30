@@ -1,0 +1,630 @@
+{
+  "file_count": 125,
+  "files": [
+    {
+      "path": "assets/moyster-session/a_wide_clean_product_ui_ux_mockup_scene_with_thre.png",
+      "bytes": 2040336,
+      "sha256": "1d6312e2fc651bf17b0fc48adfde8f0de07f0a63aaeb24e6e08098c720ffe7ac"
+    },
+    {
+      "path": "assets/moyster-session/a_wide_stylized_high_detail_concept_art_ux_mocku.png",
+      "bytes": 3020965,
+      "sha256": "84dd73ced83f628b7ba85569c0e74230a491c225d7b97ab9d925e6f026a233cd"
+    },
+    {
+      "path": "assets/moyster-session/a_wide_composite_image_of_a_dark_gritty_collage.png",
+      "bytes": 2832431,
+      "sha256": "fbf508d5a0026a86124e24218c10d124dc0e353cc07c2d9bbf1f68bb1153a446"
+    },
+    {
+      "path": "assets/moyster-session/a_high_contrast_collage_style_illustration_on_a_wo.png",
+      "bytes": 3988629,
+      "sha256": "50bb69d501b9c2241f720eebb052b46be9ad6c577a9915995d3f3eba93a3036a"
+    },
+    {
+      "path": "assets/moyster-session/a_clean_white_background_collage_asset_sheet_in_a.png",
+      "bytes": 3476665,
+      "sha256": "c0e1b54888c8341e2fa9ac46568ae7891b9b66d099f5ab35ac90b0d2832dee9a"
+    },
+    {
+      "path": "assets/moyster-session/a_high_contrast_vintage_halftone_collage_style_cut.png",
+      "bytes": 2221951,
+      "sha256": "0b2e90a7e915da7510c64b49c961cf08749baacfea7232436e11cb49322e9679"
+    },
+    {
+      "path": "assets/moyster-session/punk_zine_oyster_kiss_sticker.png",
+      "bytes": 2578189,
+      "sha256": "72b16e590bf9f6d96c017e76adfe425b4c72f380546382de307dfcc2862d2735"
+    },
+    {
+      "path": "assets/moyster-session/gritty_oyster_sticker_with_neon_pink_scribble.png",
+      "bytes": 1875828,
+      "sha256": "35512ebbb65e2914367772f011b38f8b0db099910f08dd7da953b44254df5ce9"
+    },
+    {
+      "path": "assets/moyster-session/neon_punk_doodle_sticker_collage.png",
+      "bytes": 1226187,
+      "sha256": "33adce7e5048b05ee848d9d4f9447d2ad247b864c8e99d7d8192389888ea1466"
+    },
+    {
+      "path": "assets/moyster-session/gritty_pink_accented_oyster_shell_collage.png",
+      "bytes": 3056924,
+      "sha256": "ac151b22c8628c33fe7883215b8ea1d58a28cf8702bc2f9e341badd1e911a020"
+    },
+    {
+      "path": "assets/moyster-session/punk_oyster_sticker_with_neon_accents.png",
+      "bytes": 2705150,
+      "sha256": "23a3ceed5ccea16a65197bf91f593f75c4253d2876a597d63097abab632e8d8f"
+    },
+    {
+      "path": "assets/moyster-session/neon_punk_oyster_sticker.png",
+      "bytes": 1995743,
+      "sha256": "2c3c766fb3b607e90601ce0e10598983c3430de8d91fd319d041fcd2f8ddb416"
+    },
+    {
+      "path": "assets/moyster-session/punk_oyster_crown_sticker.png",
+      "bytes": 2590301,
+      "sha256": "c884e8b0cf3c1844e5935c203ba30f4906ac15b360613aa57324176b7c700cf2"
+    },
+    {
+      "path": "assets/moyster-session/halftone_oyster_shucking_sticker.png",
+      "bytes": 2071181,
+      "sha256": "e0f61a42e89d90136299acafeb95583a9e0bd7b25994c0de4ef0dcaa92ca4fff"
+    },
+    {
+      "path": "assets/moyster-session/punk_oyster_kiss_collage.png",
+      "bytes": 2784736,
+      "sha256": "90178fec8f8a69727d12e6f2241f6879b9f3c08f5bb2fc64e85a2341c7697fe0"
+    },
+    {
+      "path": "assets/moyster-session/gritty_halftone_oyster_shell_sticker.png",
+      "bytes": 2759054,
+      "sha256": "3a597bd3781d9a0865b745e65b649977fe98f7260c0a7e3a20a173bdd90c8cec"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_asset_inventory.jpg",
+      "bytes": 384884,
+      "sha256": "1dc0ee917da24a4c5400d41de753d07e508cd7725d29b056fd66c624b4fb3ed7"
+    },
+    {
+      "path": "assets/moyster-session/posters_contact.png",
+      "bytes": 565457,
+      "sha256": "5fd6f23a9403e0e304cdaa028fef90fd9b232fc2e8bdb5d839d116770d4498c3"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_animation_pack.zip",
+      "bytes": 31479079,
+      "sha256": "f754a0ee0cbc4db399bcfb6fd8e5d0bc933f345d5168a8613097f24aad579851"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_extracted_assets.zip",
+      "bytes": 3170369,
+      "sha256": "497e2ff9243f22a387e233e986957590bf0139d56ab3df2eb8119c9e8f685017"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/55_engraved_oyster_paper_scrap.png",
+      "bytes": 36212,
+      "sha256": "1cc985f99ba9e72edf7daf878853436cb83f088410ae209d575ed4584ed2d5c3"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/29_map_oyster_pin_6.png",
+      "bytes": 12482,
+      "sha256": "7504a22130b7b85b244fd7867150f1fbb50935916b49429ae8fccb3955875132"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/51_venue_description.png",
+      "bytes": 72273,
+      "sha256": "6fcd635eaa2da4cce4f73b57213ad081c222986ee92890467547c9dae8534494"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/13_list_navigation_icon.png",
+      "bytes": 3401,
+      "sha256": "cb52310ffa066caeff6f8b4cd71e131c01c5c39a8b0adf6243e52ef0700981c7"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/24_map_oyster_pin_1.png",
+      "bytes": 12326,
+      "sha256": "564a7088cdc6419acb61d2c82b3301a3e12d18af7b610dd8f1352a417a6c8154"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/26_map_oyster_pin_3.png",
+      "bytes": 11514,
+      "sha256": "66c97f32d26626f8b81a376df69b7d103e831c0113ac5e7a7dde7cb1ed3d81a2"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/07_heart_graffiti.png",
+      "bytes": 16718,
+      "sha256": "07b7de0cd359a6d2df82eb57e9bd9124f624462d02f55e2e42f22b0f4e19e0ce"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/manifest.json",
+      "bytes": 13598,
+      "sha256": "6ec8e0122ef423a3981b5ec6d22ddf8acc3d66178745d90a61c5439c62595f83"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/28_map_oyster_pin_5.png",
+      "bytes": 9942,
+      "sha256": "8648548d80eed0886b06ac32e5b0f96b84685b6b54c4f4f7c04d24e39c5274f7"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/02_oyster_near_wordmark.png",
+      "bytes": 94803,
+      "sha256": "6c46dcafed6edc827561ad69a295a4c844e5c4aae1825726aefa661722f202ab"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/03_fresh_oysters_tagline.png",
+      "bytes": 23656,
+      "sha256": "b948b03cd8fd978a7df0098d31f9213a7a78326e6ab9d5e4f9d7f85447584b31"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/44_pink_save_heart.png",
+      "bytes": 4027,
+      "sha256": "875dda26c29b470eef10f2f3fe9b4c75d8da2fd22db9f848333ed930d0ac69af"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/50_category_chips.png",
+      "bytes": 25423,
+      "sha256": "644ea3f8e767775cff4fb8ec5fced6bbb13e3dbdfbab2f93e3503d60920e3e73"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/45_hero_oyster_photo.png",
+      "bytes": 318333,
+      "sha256": "9824469c32e1e73983bad9c65aa994e5bf072be900b62e9229fb33e9500a7e4b"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/48_venue_name_typography.png",
+      "bytes": 38993,
+      "sha256": "4dd6364fd59f534285f4eb1dd81efb24c1764d43d586bb0b73949db21b4e2583"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/39_venue_card_oyster_title.png",
+      "bytes": 29561,
+      "sha256": "3ab462734ba917b3a9fc73c4de37d5b74ec624e208c43051cf33f6bf690c2fa8"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/40_venue_card_sunset_photo.png",
+      "bytes": 19195,
+      "sha256": "bc8db701d8a744a7155b3741d79de5e4289ebddf34669cfeeb603d0067beff2c"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/37_venue_card_background.png",
+      "bytes": 339946,
+      "sha256": "950484a3ad6e19c830b331c5b6f3cb58e9809aada9ed888c31d76358cb79236a"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/05_hand_holding_oyster.png",
+      "bytes": 170105,
+      "sha256": "a096caa02e7e8ce3645a769bcfa74382bd3585486d0c9d25a735ae7b968e8a11"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/21_map_marigny.png",
+      "bytes": 117106,
+      "sha256": "872537ed58bfe8b27d556b1f205c9760b302408fc14d949390771ecdcafd1819"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/30_blue_location_marker.png",
+      "bytes": 19393,
+      "sha256": "1fd05405c40244c3b2a77cb1ed61f79057dd9760ecbf3cba28fe7b848148fc0c"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/11_show_me_oysters_button.png",
+      "bytes": 63282,
+      "sha256": "09980cd6cbba7bba7bb79f0c056a24fee249ac3ac1ff86cef5617087ee6be968"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/33_map_oyster_engraving.png",
+      "bytes": 32573,
+      "sha256": "17eddf84cb301d02c500bcb45ce95cb800117eb31ee1e3804232a485a27ef198"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/08_oyster_spots_paper_labels.png",
+      "bytes": 57222,
+      "sha256": "62b260901f1699dd41625190f72d37a90e0ae1e9248c416054f0b394ad39f4cb"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/54_venue_oysters_photo.png",
+      "bytes": 33718,
+      "sha256": "95d07363f5386d4ac2300e4bdf239114e64b6dbfb7ba518fe5a558fd928d5eee"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/38_venue_card_oyster_photo.png",
+      "bytes": 83410,
+      "sha256": "ce8a982c84a7ab62504b3080f58aad9fb13a0e5c2d52650a086a5454f0cd8a7b"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/10_pink_lipstamp.png",
+      "bytes": 25846,
+      "sha256": "83c371833fc30b43576a76b7335a59415bf80bf0f2c0d7bf9f4ead052155aa1e"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/06_woman_face_oyster_drip.png",
+      "bytes": 252514,
+      "sha256": "6bef93854266c163daf017d73e18e147708d622c010b3a69f349199e43f24b57"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/34_map_alligator.png",
+      "bytes": 17777,
+      "sha256": "f76df6222b746e017fb26e313d7af3ff4f3afb3950e93a261265661559557f53"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/61_top_save_heart_button.png",
+      "bytes": 6509,
+      "sha256": "f58a9b6ab1f18b56feffb1c524210f62555ec7d59ea5138553534b4444b3976e"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/18_pink_lips_on_search.png",
+      "bytes": 17301,
+      "sha256": "169658cdfb9fc4bae1354123152456078e4ca7356c6e89581b913fdaa4eda5a7"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/23_map_bywater.png",
+      "bytes": 127752,
+      "sha256": "d33f51a109f7bcb609c26f92a855dc45e958af1401685cca32f4e1e30cdeec3e"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/22_map_cbd.png",
+      "bytes": 153132,
+      "sha256": "28803a2b800d0799902765ab8085771ff5916f706cf18a09d133f32323d3d008"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/46_hero_vintage_woman_cutout.png",
+      "bytes": 73682,
+      "sha256": "5490656164119f00d5dd34ffeef9ed74bea5eeb72c7fa8594435d8446fb77ef5"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/52_venue_waterfront_photo.png",
+      "bytes": 45829,
+      "sha256": "6e9ecb6f001f813bb13bfe2c910248cc304a9b550d3e54841b1f34154b27629a"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/58_menu_document_icon.png",
+      "bytes": 1890,
+      "sha256": "0513f07126186ef9cea7eab4e06ad5e1ece9b36bef03e61123e8752537520e0e"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/31_handdrawn_crown.png",
+      "bytes": 13110,
+      "sha256": "77baa49e6117bd8566616060ad732b237724a1fd1e31d0a4c2425883f10bb47b"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/41_venue_card_bar_photo.png",
+      "bytes": 27137,
+      "sha256": "0ed4c07c45166a401c71e47f7dcc37866c67036c34b7de23378386665adc085c"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/49_rating_status_line.png",
+      "bytes": 21625,
+      "sha256": "e6e49b5b860b0338658de59914438ec45d1443b9ac940a081f2f78ac937bdeb8"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/35_map_compass_button.png",
+      "bytes": 9022,
+      "sha256": "bf9df36e9ac5b5b3f2c12b24ac528e3dc7d9946e4c0dbbb084ad19ade70ccfc0"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/27_map_oyster_pin_4.png",
+      "bytes": 12345,
+      "sha256": "a096982a21f1c32b0067d183a2c81418b8667a8d3a1413a9fdd23e889ca85af5"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/15_more_navigation_eye.png",
+      "bytes": 3465,
+      "sha256": "b86113fee4d70484279e4f9fed6f2e3c0918eed81153f5378419f8432c8daf61"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/04_shuck_drink_wander_text.png",
+      "bytes": 28385,
+      "sha256": "6b05aa416ae55d88850f56cbbc0edeb68e02a9f317177acf8576daa545c7a3ae"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/19_filter_tabs.png",
+      "bytes": 47217,
+      "sha256": "3613c8300d8828c0ede9ba38b84c90ca7b419f0f251f1e811a6882ade6419320"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/20_map_fr_quarter.png",
+      "bytes": 160534,
+      "sha256": "7645361604004332198160517c1c827f606fbc3d85c9585ca3be6cfc14abb844"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/53_venue_bar_photo.png",
+      "bytes": 51331,
+      "sha256": "b54cd89ee585665556448b250b620a1fa250f429b967d17d80a55c56e2fab1c0"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/09_tourist_bait_copy.png",
+      "bytes": 41889,
+      "sha256": "abaf5966fc194cab1805b044728e5ff253173c29af8bc206ba634ab904e1e102"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/56_map_pin_address_icon.png",
+      "bytes": 1912,
+      "sha256": "fb2bc2abeb0677d512c38eeaed74487238a56704fed40a77490e69c089ee837f"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/12_pink_shell_navigation_icon.png",
+      "bytes": 4969,
+      "sha256": "deb4e2301a69c3dc9b3c052a0a7a680b8c16d272d9975843e2f4fe939e50d695"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/17_search_torn_paper.png",
+      "bytes": 57349,
+      "sha256": "5d9a7ec78c94778039ba7542820615c07a13fe4d6f2cdd3b27f5bf80e57e4e63"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/59_directions_hot_pink_button.png",
+      "bytes": 59377,
+      "sha256": "0dea83e394c0f0c1c0e80374aac1b739d0d34b8c097e3ec7f63e150c350a6de5"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/43_card_arrow_button.png",
+      "bytes": 8472,
+      "sha256": "0e3bdc101b8d33fc25c9849a012c06063ed11c5125848a8371ce889270e0f6e2"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/42_shucking_hours_paper_label.png",
+      "bytes": 46859,
+      "sha256": "045b9a36d56550db250658fa0db9fc8ae5b7bcc2728a7ccf072a6511948ba308"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/57_clock_hours_icon.png",
+      "bytes": 2649,
+      "sha256": "3ab80d05e49a1eecdfc396b8c4f134c442853dcca83705cb24db75af16768ebf"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/62_top_share_button.png",
+      "bytes": 6603,
+      "sha256": "dcf2779eae838b2f735f15549999dbafce04b571c6d7de90a366014981cfe493"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/14_save_navigation_heart.png",
+      "bytes": 3729,
+      "sha256": "aa18f9be9c0172eff578d949a513722ed7f956e05062c6f4800d9e25fcffbdc6"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/32_map_statue_cutout.png",
+      "bytes": 47740,
+      "sha256": "ab2a461f1b766b4141388783227dc22415c99a2a51dbc0b69c3efc0163b201a8"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/16_bottom_navigation.png",
+      "bytes": 55336,
+      "sha256": "10699d7e907f3c303b83f9bfa93b17add31194a75b9895a9a3d55546aa54c1b7"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/60_top_back_button.png",
+      "bytes": 5146,
+      "sha256": "6820a564d5bed5f550c411bbfd688acf15c9a27fe09bee7c7f6ebcb910fa1449"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/01_oyster_logo.png",
+      "bytes": 17225,
+      "sha256": "861f8555ddbcfa649b0c34d6a40a7ef3bc8d9ab68384d1d5ff240ddde1faeeaf"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/25_map_oyster_pin_2.png",
+      "bytes": 10704,
+      "sha256": "5571ebd4629c970a968a937871996bc0d99d8bde6f4cc19ab404ed96a481cdcf"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/47_hero_good_oysters_bad_decisions.png",
+      "bytes": 40678,
+      "sha256": "4082a4f2d1b530bdd1efcfe55c7a037f1c87b7c5792f669defea65244a9634e4"
+    },
+    {
+      "path": "assets/moyster-session/oyster_near_assets/36_oyster_compass_button.png",
+      "bytes": 6692,
+      "sha256": "d80f4eef26387506e95abd9d5d134466bcfd2a8ac8bf27a5ab526bd05ec64dfc"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/manifest.json",
+      "bytes": 8140,
+      "sha256": "59eb7a668897de190aff821b48dadda8759dfc203dc94ebe5fb3aa569aa868a7"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/preview.jpg",
+      "bytes": 157566,
+      "sha256": "8bd70ddc3ce38b209162a9ca03bb41cb5f4ccd453c0df0dba7c5db1905259a5f"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/05_punk_lettering.png",
+      "bytes": 180196,
+      "sha256": "5838dd99d024bb2086e3f814a83cdacfa64abbd10656a825b5c883c874a006c6"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/00_original.jpg",
+      "bytes": 1354976,
+      "sha256": "e6652a33a397e8bdadcbef7cc476a87c720dbbfad141b2b2f84e10d34f9dad04"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/01_approximate_base_texture.jpg",
+      "bytes": 153515,
+      "sha256": "7011f5405f9a44dddc1f8ca944f9d96ae0799583d2f7a1e19d93ebe70184f3da"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/03_bad_decisions_paper.png",
+      "bytes": 496523,
+      "sha256": "6f9799366c99ae3a63a4be3ea20b5d462b07113369bf6b830f3e27ea5a81b984"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/01_large_oyster.png",
+      "bytes": 3463565,
+      "sha256": "e5f0c74097eb9cda773025b481250378fd1c46a4b3225b96f25b8dc00eaf4328"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/04_oyster_paper.png",
+      "bytes": 391590,
+      "sha256": "07262c4a032daac56c0baf60b6d4b57a2301c85904da0f34b48d6a078a19fda8"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/06_pink_lip_stamp.png",
+      "bytes": 388224,
+      "sha256": "64a185ab2be06465101e93c9f7975adf0541950172a9558192df4f7f606a72eb"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/oyster_punk/02_shuck_paper.png",
+      "bytes": 393093,
+      "sha256": "a4b7731efc5a3a61e2c0bb19557ce46f1d50adb139ea0a7fa3e74909a5ada020"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/00_original.jpg",
+      "bytes": 1363626,
+      "sha256": "3445233e8516f72fbbacc47574acd39b6b35ce62297403c1b931bdfd69b4e4b4"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/01_approximate_base_texture.jpg",
+      "bytes": 160966,
+      "sha256": "73fd6b02a5e1fc098b034dd36555aab965d8d33c3237b654421dfad3c06b4215"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/05_barcode_right.png",
+      "bytes": 411809,
+      "sha256": "e0a9d06c576171d7c7d1bb55354135a3a366cf566f7b6effe8f82307fe098adc"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/04_barcode_left.png",
+      "bytes": 295217,
+      "sha256": "6fe31d7b311f017048affecae21de19c498873de236b8ed53ffd0611b4a562bc"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/06_pink_lip_top.png",
+      "bytes": 337769,
+      "sha256": "bfe0277a26153b8ab5bf6f2df9f2d4dbfc1c6d386ecc1d2ac668133dc4514811"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/02_shuck_or_die.png",
+      "bytes": 526673,
+      "sha256": "a56151f86bac6a52b5f64600c4c080fc9f0b907954b2b0d1413d6eaaae3e4b4d"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/01_double_oyster.png",
+      "bytes": 2035914,
+      "sha256": "d95f6a9e0b88a000663519de185b078debe615761f4e0a64393fd9710680782b"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/double_oyster/03_oyster_punk_lettering.png",
+      "bytes": 595315,
+      "sha256": "010c099ba7f3874c9d8ffe72cfbb065132f8bd87dbb8230bc509df8da5691000"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/04_raw_dirty.png",
+      "bytes": 272731,
+      "sha256": "c30d943e287741df022a74fbf9a507e79cab2dfb388846d734c6f6a701c93a14"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/02_bottom_oyster_hand.png",
+      "bytes": 1248956,
+      "sha256": "25d0c099dcc450147e2ba3a16f490cf6e931d328a3e3fc9328d94bb16e9b462e"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/00_original.jpg",
+      "bytes": 1282383,
+      "sha256": "3c90ea0a340de593465f589289a1ce320c902be05379371c9be992703427f015"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/01_approximate_base_texture.jpg",
+      "bytes": 159187,
+      "sha256": "f610530cc3b789c063e5fbab194d3d966e83e21edb6c5e3aaaefa825a17c1da9"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/05_spill_lettering.png",
+      "bytes": 185197,
+      "sha256": "c6da5f13b51fe308edaedf21588ca5aa053a0b00291e3e52ec6d9088ab78e5af"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/01_hands_bottle_lemon.png",
+      "bytes": 2090989,
+      "sha256": "fa98f2ad87b9d8edaf81425e63effc668fe6f556a595fed21f5366970374b0be"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/06_pink_skull.png",
+      "bytes": 234314,
+      "sha256": "eedf86d5be9ca01680073fa66ad782d327807fb2f9595b646c3c135ec28ce603"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/hot_sauce/03_shuck_em_all.png",
+      "bytes": 617783,
+      "sha256": "7b0aa5180b357ff7815dda7c73e1b94cc61bda69cc30121702756ae8d2f8a15f"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/01_statue_and_shell.png",
+      "bytes": 3697751,
+      "sha256": "7f61b1f8a8850333e7d5ee72dbe402d04939282e0009c1b204cad12d908f3d4e"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/05_bottom_photo.png",
+      "bytes": 420077,
+      "sha256": "7655483265e6d6bd5d8a460dd77edc3db0a9807cb7f9e4601ecb8a7d3ae1ddaf"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/02_adventures_paper.png",
+      "bytes": 380831,
+      "sha256": "ea2a3331cc3c1da1ecb10993becbff602fe1aa3b2b3d55cd03d53cf764b9cfe5"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/04_near_you_paper.png",
+      "bytes": 267999,
+      "sha256": "e803cadd149dfc906f2b20a814345d8986caadc9ca1eee199891bee6126cfed7"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/00_original.jpg",
+      "bytes": 1334191,
+      "sha256": "9b9149cb594ac82dd635d160ae15ad62d22b164a6f1e1d7f1e439ab958392b74"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/01_approximate_base_texture.jpg",
+      "bytes": 156885,
+      "sha256": "83fb03edba33b6471b2677bf5c532f85d700b71a65849ca438c4db68bbb9cef3"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/03_oyster_pink_type.png",
+      "bytes": 311956,
+      "sha256": "d87197e121167d6e869fb9885f07c54511c056436b1c75bcf7ace621e3efcf0b"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/statue/06_salty_shell_paper.png",
+      "bytes": 324013,
+      "sha256": "408ca09cebff265105f918b04e589f4b8e3c7bfde9279ebe6074e262f4c8c818"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/05_bottom_photocopy.png",
+      "bytes": 462232,
+      "sha256": "fa1d9af4b3c0ab52ed286b4eef3a59807301c3aea71e4768737f7c572e7737ff"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/04_pry_it_open_paper.png",
+      "bytes": 385683,
+      "sha256": "7517e8b8142af99827e69440c27c19cf84882f2d015a7b646cf1a4842be8962a"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/00_original.jpg",
+      "bytes": 1236117,
+      "sha256": "9f180c382d08f6eb9922c55dfbf27ace853b856e503480b388a238236a06173a"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/01_approximate_base_texture.jpg",
+      "bytes": 158979,
+      "sha256": "a29a807f206d419c3a8477f5ca909e531654b8c80db5002ac58ff642df5ab457"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/01_main_hands_knife_oyster.png",
+      "bytes": 2465115,
+      "sha256": "31996b16515f6d63b0e41e5764913d3d5dc57349e2e6c8c6977f36618343a56b"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/02_top_scribble_paper.png",
+      "bytes": 488069,
+      "sha256": "e38372af584e5f5a4ff5eb8e54198946b72d8e41c2392e788a5b46e01e646299"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/06_upper_map_fragment.png",
+      "bytes": 266509,
+      "sha256": "affedebcb6545e98d977356b09dd5f8d539c093753b592eceacbea63041757fc"
+    },
+    {
+      "path": "assets/moyster-session/moyster_background_layers_v2/shucking/03_shuck_or_die_paper.png",
+      "bytes": 310585,
+      "sha256": "6a7533a5e0542ce33e2458be4d134ded46bcb4d3b766027caa1e5ac0ba6a987b"
+    }
+  ]
+}

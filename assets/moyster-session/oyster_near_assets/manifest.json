@@ -1,0 +1,751 @@
+{
+  "source": "Gritty Oyster-Finding App Mockup.png",
+  "asset_count": 62,
+  "note": "Rasters extracted from screenshot; background and occluded pixels cannot be reconstructed. Some have approximate transparency masks.",
+  "assets": [
+    {
+      "file": "01_oyster_logo.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        225,
+        69,
+        314,
+        133
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "02_oyster_near_wordmark.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        54,
+        128,
+        468,
+        229
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "03_fresh_oysters_tagline.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        124,
+        224,
+        360,
+        269
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "04_shuck_drink_wander_text.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        385,
+        263,
+        476,
+        408
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "05_hand_holding_oyster.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        26,
+        262,
+        325,
+        501
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "06_woman_face_oyster_drip.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        186,
+        438,
+        477,
+        796
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "07_heart_graffiti.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        297,
+        334,
+        380,
+        414
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "08_oyster_spots_paper_labels.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        29,
+        460,
+        166,
+        658
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "09_tourist_bait_copy.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        43,
+        653,
+        204,
+        778
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "10_pink_lipstamp.png",
+      "screen": "home",
+      "kind": "collage",
+      "source_box": [
+        375,
+        692,
+        469,
+        777
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "11_show_me_oysters_button.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        67,
+        782,
+        429,
+        858
+      ],
+      "alpha_method": "round"
+    },
+    {
+      "file": "12_pink_shell_navigation_icon.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        61,
+        894,
+        109,
+        943
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "13_list_navigation_icon.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        178,
+        899,
+        222,
+        947
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "14_save_navigation_heart.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        287,
+        897,
+        333,
+        941
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "15_more_navigation_eye.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        394,
+        899,
+        438,
+        943
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "16_bottom_navigation.png",
+      "screen": "home",
+      "kind": "UI",
+      "source_box": [
+        33,
+        890,
+        470,
+        992
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "17_search_torn_paper.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        550,
+        79,
+        947,
+        139
+      ],
+      "alpha_method": "round"
+    },
+    {
+      "file": "18_pink_lips_on_search.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        855,
+        67,
+        941,
+        133
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "19_filter_tabs.png",
+      "screen": "map",
+      "kind": "UI",
+      "source_box": [
+        540,
+        142,
+        986,
+        190
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "20_map_fr_quarter.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        550,
+        180,
+        784,
+        427
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "21_map_marigny.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        782,
+        171,
+        980,
+        421
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "22_map_cbd.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        548,
+        367,
+        753,
+        645
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "23_map_bywater.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        784,
+        365,
+        980,
+        636
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "24_map_oyster_pin_1.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        607,
+        274,
+        662,
+        350
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "25_map_oyster_pin_2.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        818,
+        255,
+        873,
+        329
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "26_map_oyster_pin_3.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        546,
+        356,
+        607,
+        422
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "27_map_oyster_pin_4.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        652,
+        425,
+        711,
+        499
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "28_map_oyster_pin_5.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        940,
+        367,
+        992,
+        434
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "29_map_oyster_pin_6.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        842,
+        484,
+        902,
+        570
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "30_blue_location_marker.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        688,
+        417,
+        771,
+        504
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "31_handdrawn_crown.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        832,
+        218,
+        925,
+        279
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "32_map_statue_cutout.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        555,
+        516,
+        688,
+        653
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "33_map_oyster_engraving.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        665,
+        556,
+        785,
+        656
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "34_map_alligator.png",
+      "screen": "map",
+      "kind": "map",
+      "source_box": [
+        822,
+        557,
+        921,
+        628
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "35_map_compass_button.png",
+      "screen": "map",
+      "kind": "UI",
+      "source_box": [
+        927,
+        497,
+        983,
+        560
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "36_oyster_compass_button.png",
+      "screen": "map",
+      "kind": "UI",
+      "source_box": [
+        932,
+        570,
+        981,
+        625
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "37_venue_card_background.png",
+      "screen": "map",
+      "kind": "UI",
+      "source_box": [
+        542,
+        641,
+        982,
+        977
+      ],
+      "alpha_method": "round"
+    },
+    {
+      "file": "38_venue_card_oyster_photo.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        553,
+        669,
+        748,
+        847
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "39_venue_card_oyster_title.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        742,
+        671,
+        958,
+        739
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "40_venue_card_sunset_photo.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        743,
+        799,
+        828,
+        896
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "41_venue_card_bar_photo.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        834,
+        799,
+        947,
+        897
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "42_shucking_hours_paper_label.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        553,
+        846,
+        686,
+        985
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "43_card_arrow_button.png",
+      "screen": "map",
+      "kind": "UI",
+      "source_box": [
+        910,
+        838,
+        967,
+        896
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "44_pink_save_heart.png",
+      "screen": "map",
+      "kind": "collage",
+      "source_box": [
+        939,
+        679,
+        978,
+        725
+      ],
+      "alpha_method": "pink"
+    },
+    {
+      "file": "45_hero_oyster_photo.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1066,
+        40,
+        1493,
+        362
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "46_hero_vintage_woman_cutout.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1342,
+        26,
+        1474,
+        266
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "47_hero_good_oysters_bad_decisions.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1401,
+        196,
+        1495,
+        351
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "48_venue_name_typography.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1084,
+        369,
+        1405,
+        431
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "49_rating_status_line.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1081,
+        441,
+        1461,
+        478
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "50_category_chips.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1082,
+        477,
+        1463,
+        512
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "51_venue_description.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1086,
+        516,
+        1493,
+        618
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "52_venue_waterfront_photo.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1059,
+        613,
+        1215,
+        743
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "53_venue_bar_photo.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1227,
+        610,
+        1397,
+        744
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "54_venue_oysters_photo.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1396,
+        615,
+        1499,
+        743
+      ],
+      "alpha_method": "rect"
+    },
+    {
+      "file": "55_engraved_oyster_paper_scrap.png",
+      "screen": "venue",
+      "kind": "collage",
+      "source_box": [
+        1409,
+        313,
+        1499,
+        462
+      ],
+      "alpha_method": "polygon"
+    },
+    {
+      "file": "56_map_pin_address_icon.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1081,
+        748,
+        1112,
+        784
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "57_clock_hours_icon.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1077,
+        807,
+        1115,
+        847
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "58_menu_document_icon.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1078,
+        841,
+        1107,
+        878
+      ],
+      "alpha_method": "light"
+    },
+    {
+      "file": "59_directions_hot_pink_button.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1084,
+        879,
+        1484,
+        960
+      ],
+      "alpha_method": "round"
+    },
+    {
+      "file": "60_top_back_button.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1073,
+        80,
+        1122,
+        127
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "61_top_save_heart_button.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1379,
+        81,
+        1435,
+        133
+      ],
+      "alpha_method": "ellipse"
+    },
+    {
+      "file": "62_top_share_button.png",
+      "screen": "venue",
+      "kind": "UI",
+      "source_box": [
+        1441,
+        80,
+        1497,
+        131
+      ],
+      "alpha_method": "ellipse"
+    }
+  ]
+}
