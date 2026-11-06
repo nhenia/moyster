@@ -10,6 +10,7 @@ on:
     paths:
       - "src/deals.json"
       - "scripts/refresh-data.mjs"
+      - "src/finder/logic.test.ts"
       - ".github/workflows/refresh-data.yml"
 permissions:
   contents: write
