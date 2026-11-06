@@ -16,6 +16,7 @@
 
   html {
     scroll-behavior: smooth;
+    overflow-x: clip; /* stops the marquee/posters nudging the page sideways; unlike hidden, keeps sticky working */
   }
 
   body {

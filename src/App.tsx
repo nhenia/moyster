@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react"
-import OysterFinder from "./OysterFinder"
+import OysterFinder from "./finder/OysterFinder"
+import FinderBoundary from "./finder/FinderBoundary"
 
 const animationBase = `${import.meta.env.BASE_URL}art/animations/`
 
@@ -89,7 +90,7 @@ export default function App() {
     }
   }, [selected])
 
-  const tiltHero = (event: React.PointerEvent<HTMLDivElement>) => {
+  const tiltHero = (event: React.PointerEvent<HTMLElement>) => {
     const bounds = event.currentTarget.getBoundingClientRect()
     const x = (event.clientX - bounds.left) / bounds.width - 0.5
     const y = (event.clientY - bounds.top) / bounds.height - 0.5
@@ -99,7 +100,7 @@ export default function App() {
     event.currentTarget.style.setProperty("--my", `${(y + 0.5) * 100}%`)
   }
 
-  const resetTilt = (event: React.PointerEvent<HTMLDivElement>) => {
+  const resetTilt = (event: React.PointerEvent<HTMLElement>) => {
     event.currentTarget.style.setProperty("--rx", "0deg")
     event.currentTarget.style.setProperty("--ry", "0deg")
   }
@@ -157,6 +158,10 @@ export default function App() {
           {installPrompt && <button onClick={install}>Install app</button>}
         </nav>
       </header>
+
+      <FinderBoundary>
+        <OysterFinder />
+      </FinderBoundary>
 
       <section className="hero" id="top">
         <div className="hero-copy">
@@ -233,7 +238,6 @@ export default function App() {
         </div>
       </section>
 
-      <OysterFinder />
 
       <section className="work" id="work">
         <header className="section-heading">
