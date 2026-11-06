@@ -149,7 +149,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://acmeoyster.com/"
+      "source": "https://acmeoyster.com/",
+      "lat": 29.95418,
+      "lng": -90.06846,
+      "geocoded": "census"
     },
     {
       "id": "felix",
@@ -168,7 +171,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://felixs.com/"
+      "source": "https://felixs.com/",
+      "lat": 29.95435,
+      "lng": -90.0685,
+      "geocoded": "census"
     },
     {
       "id": "mr-eds",
@@ -187,7 +193,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://mredsrestaurants.com/"
+      "source": "https://mredsrestaurants.com/",
+      "lat": 29.95364,
+      "lng": -90.06582,
+      "geocoded": "census"
     },
     {
       "id": "fives",
@@ -204,7 +213,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://fives.bar/"
+      "source": "https://fives.bar/",
+      "lat": 29.95814,
+      "lng": -90.06278,
+      "geocoded": "census"
     },
     {
       "id": "dragos",
@@ -222,7 +234,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.dragosrestaurant.com/"
+      "source": "https://www.dragosrestaurant.com/",
+      "lat": 29.94813,
+      "lng": -90.06348,
+      "geocoded": "census"
     },
     {
       "id": "peche",
@@ -240,7 +255,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.pecherestaurant.com/"
+      "source": "https://www.pecherestaurant.com/",
+      "lat": 29.94524,
+      "lng": -90.06913,
+      "geocoded": "census"
     },
     {
       "id": "sidecar",
@@ -257,7 +275,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://sidecarnola.com/"
+      "source": "https://sidecarnola.com/",
+      "lat": 29.94078,
+      "lng": -90.06928,
+      "geocoded": "census"
     },
     {
       "id": "marias",
@@ -275,7 +296,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.mariasoysterbar.com/"
+      "source": "https://www.mariasoysterbar.com/",
+      "lat": 29.94543,
+      "lng": -90.06735,
+      "geocoded": "census"
     },
     {
       "id": "basin",
@@ -295,7 +319,10 @@
       "start": "11:00",
       "end": "21:00",
       "note": "Published special; confirm before visiting",
-      "source": "https://www.basinneworleans.com/"
+      "source": "https://www.basinneworleans.com/",
+      "lat": 29.9237,
+      "lng": -90.08695,
+      "geocoded": "census"
     },
     {
       "id": "superior",
@@ -321,7 +348,10 @@
       "start": "16:00",
       "end": "18:30",
       "note": "Published special; confirm before visiting",
-      "source": "https://superiorseafoodnola.com/"
+      "source": "https://superiorseafoodnola.com/",
+      "lat": 29.9264,
+      "lng": -90.10122,
+      "geocoded": "census"
     },
     {
       "id": "salted-pearl",
@@ -344,7 +374,10 @@
       "start": "15:00",
       "end": "17:00",
       "note": "Published special; confirm before visiting",
-      "source": "https://www.strochmarket.com/"
+      "source": "https://www.strochmarket.com/",
+      "lat": 29.96904,
+      "lng": -90.05265,
+      "geocoded": "census"
     },
     {
       "id": "pigeon-whale",
@@ -369,7 +402,10 @@
       "start": "16:00",
       "end": "18:00",
       "note": "Published special; confirm before visiting",
-      "source": "https://nola.eater.com/maps/best-raw-oyster-happy-hour-new-orleans-nola"
+      "source": "https://nola.eater.com/maps/best-raw-oyster-happy-hour-new-orleans-nola",
+      "lat": 29.9352,
+      "lng": -90.10452,
+      "geocoded": "census"
     },
     {
       "id": "cooter",
@@ -386,7 +422,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.cooterbrowns.com/"
+      "source": "https://www.cooterbrowns.com/",
+      "lat": 29.94246,
+      "lng": -90.13452,
+      "geocoded": "census"
     },
     {
       "id": "blue-crab",
@@ -408,7 +447,10 @@
       "start": "16:00",
       "end": "18:30",
       "note": "Published special; confirm before visiting",
-      "source": "https://nola.eater.com/maps/best-raw-oyster-happy-hour-new-orleans-nola"
+      "source": "https://nola.eater.com/maps/best-raw-oyster-happy-hour-new-orleans-nola",
+      "lat": 30.02448,
+      "lng": -90.11343,
+      "geocoded": "census"
     },
     {
       "id": "mosquito",
@@ -425,7 +467,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.mosquitosupperclub.com/"
+      "source": "https://www.mosquitosupperclub.com/",
+      "lat": 29.92993,
+      "lng": -90.09659,
+      "geocoded": "census"
     },
     {
       "id": "chemin",
@@ -442,7 +487,10 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.fourseasons.com/neworleans/dining/restaurants/chemin-a-la-mer/"
+      "source": "https://www.fourseasons.com/neworleans/dining/restaurants/chemin-a-la-mer/",
+      "lat": 29.94975,
+      "lng": -90.0637,
+      "geocoded": "census"
     },
     {
       "id": "pascal",
@@ -459,8 +507,17 @@
       "start": null,
       "end": null,
       "note": "Oyster destination; no verified regular happy-hour deal",
-      "source": "https://www.pascalsmanale.com/"
+      "source": "https://www.pascalsmanale.com/",
+      "lat": 29.92889,
+      "lng": -90.10253,
+      "geocoded": "census"
     }
   ],
-  "scope": "New Orleans city, including French Quarter, CBD, Warehouse District, Uptown, Garden District, Marigny, Bywater, Mid-City, Riverbend, and Lakefront; exclude Kenner, Metairie and other surrounding suburbs."
+  "scope": "New Orleans city, including French Quarter, CBD, Warehouse District, Uptown, Garden District, Marigny, Bywater, Mid-City, Riverbend, and Lakefront; exclude Kenner, Metairie and other surrounding suburbs.",
+  "checks": {
+    "ranAt": "2026-11-06",
+    "brokenLinks": [
+      "dragos"
+    ]
+  }
 }
