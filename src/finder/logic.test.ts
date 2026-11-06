@@ -66,7 +66,8 @@ test("distance and walking time are plausible", () => {
 
 test("near: closest first, unmapped venues last", () => {
   const list = rank(enrich(venues, DEFAULT_ORIGIN, { day: 2, minutes: 900 }), "near")
-  const firstUnmapped = list.findIndex((r) => r.miles == null)
+  const found = list.findIndex((r) => r.miles == null)
+  const firstUnmapped = found === -1 ? list.length : found // every venue may be mapped
   assert.ok(list.slice(firstUnmapped).every((r) => r.miles == null))
   for (let i = 1; i < firstUnmapped; i++) assert.ok(list[i - 1].miles! <= list[i].miles!)
   assert.equal(list.length, venues.length, "near mode never hides venues")
